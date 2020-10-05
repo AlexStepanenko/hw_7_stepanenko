@@ -1,0 +1,11 @@
+INFO:platform:Version           : #3.8.5
+INFO:platform:Version tuple     : #('3', '8', '5')
+INFO:platform:Compiler          : #Clang 11.0.3 (clang-1103.0.32.62)
+INFO:platform:Build             : #('default', 'Jul 21 2020 10:48:26')
+INFO:platform:System            : #Darwin
+INFO:platform:Node              : #mbp.local
+INFO:platform:Release           : #19.6.0
+INFO:platform:Version           : #Darwin Kernel Version 19.6.0: Thu Jun 18 20:49:00 PDT 2020; root:xnu-6153.141.1~1/RELEASE_X86_64
+INFO:platform:Machine           : #x86_64
+INFO:platform:Processor         : #i386
+INFO:platform:Interpreter       : #('64bit', '')
